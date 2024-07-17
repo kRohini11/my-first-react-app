@@ -1,0 +1,10 @@
+[
+    {
+        "label":"User ID:",
+        "type":"text"
+    },
+    {
+        "label":"Password:",
+        "type":"password"
+    }
+]
